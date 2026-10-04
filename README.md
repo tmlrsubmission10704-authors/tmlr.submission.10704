@@ -2,7 +2,9 @@
 
 Anonymous Code Repository for TMLR Submission 10704
 
-This repository includes lfs files. You can enable lfs with `git lfs install`
+![Banner](wandb_banner.png)
+
+> This repository includes lfs files. You can enable lfs with `git lfs install`
 
 ## Configs
 
